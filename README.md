@@ -18,9 +18,7 @@
 -  Explore AI/ML integration with backend systems  
 
 ##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saravanansri676&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanansri676&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saravanansri676&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saravanansri676&theme=radical)
 
 ##  Achievements
 -  Completed several academic projects in C, C++, and Java  
