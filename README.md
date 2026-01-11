@@ -1,16 +1,41 @@
-## Hi there 👋
+#  Hi, I'm Saravavan
 
-<!--
-**saravanansri676/saravanansri676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+-  Student at **Sri Ramakrishna Engineering College**, pursuing B.E in Computer Science Engineering  
+-  Aspiring **Backend Developer** currently in the learning phase  
+-  Exploring and improving skills in **C, C++, Java, Git, GitHub**  
+-  Passionate about building efficient backend systems and contributing to open-source projects  
 
-Here are some ideas to get you started:
+##  Tech Stack
+- **Languages:** C, C++, Java  
+- **Tools & Platforms:** Git, GitHub  
+- **Interests:** Backend Development, Data Structures & Algorithms, System Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Goals
+-  Master advanced concepts in backend development  
+-  Contribute to open-source projects and collaborate with developers worldwide  
+-  Learn cloud technologies and DevOps practices  
+-  Explore AI/ML integration with backend systems  
+
+##  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saravanansri676&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanansri676&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saravanansri676&theme=radical)
+
+##  Achievements
+-  Completed several academic projects in C, C++, and Java  
+-  Active participant in coding challenges and hackathons  
+-  Constantly learning and improving problem-solving skills  
+
+##  Hobbies & Interests
+-  Reading tech blogs & exploring new tools  
+-  Gaming and problem-solving challenges  
+-  Listening to music while coding  
+-  Coffee + Code = Productivity  
+
+##  Connect with Me
+- Email: **saravanansri676@gmail.com**  
+- GitHub: [Saravanansri676](https://github.com/Saravanansri676)  
+
+---
+✨ *“Always learning, always building.”*
